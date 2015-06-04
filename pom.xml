@@ -77,7 +77,7 @@
 						<startServersBeforeTests>true</startServersBeforeTests>
 					</remoteConfig>
 					<propertiesSystem>
-						<java.rmi.server.hostname>10.63.39.119:46116</java.rmi.server.hostname>
+						<java.rmi.server.hostname>10.63.39.119</java.rmi.server.hostname>
 					</propertiesSystem>
 				</configuration>
 				<executions>
