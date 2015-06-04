@@ -77,7 +77,9 @@
 						<startServersBeforeTests>true</startServersBeforeTests>
 					</remoteConfig>
 					<propertiesSystem>
-						<java.rmi.server.hostname>10.63.39.119</java.rmi.server.hostname>
+						<!-- <java.rmi.server.hostname>10.63.39.119</java.rmi.server.hostname> -->
+						<ServerName>10.63.39.119</ServerName>
+                         <PortNumber>1099</PortNumber>
 					</propertiesSystem>
 				</configuration>
 				<executions>
